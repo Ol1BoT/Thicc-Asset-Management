@@ -1,4 +1,4 @@
-# Express TypeScript Back-end
+# Express TypeScript BE
 
 ## Project setup
 ```

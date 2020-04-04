@@ -1,4 +1,4 @@
-# Vue Front-end
+# Vue FE
 
 ## Project setup
 ```
