@@ -15,6 +15,7 @@ export default new Vuetify({
                 secondary: '#023788',
                 error: '#D40078',
                 background: '#650D89',
+                success: colors.purple.darken2
 
             }
         }
